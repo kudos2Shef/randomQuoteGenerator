@@ -69,7 +69,7 @@ import './App.css'
 
 			</main>
 			<footer>
-            <p id="footr">Challenge by <a href="https://codepen.io/kudos2Shef/pen/LYMQpOB" className="footr_a"> freeCodeCamp </a>. Coded by <a href="https://github.com/kudos2Shef/RandomQuoteMachine-" className="footr_a">kudos2shef</a>.</p>
+            <p id="footr">Challenge by <a href="https://codepen.io/kudos2Shef/pen/LYMQpOB" className="footr_a"> freeCodeCamp </a>. Coded by <a href="https://github.com/kudos2Shef/randomQuoteGenerator" className="footr_a">kudos2shef</a>.</p>
         	</footer>
     </>
   )
